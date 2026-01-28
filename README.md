@@ -1,4 +1,4 @@
-<h1>Hey, I'm Nit 🏄</h1>
+<h1>Hey, I'm Nit./h1>
 
 <p style="max-width: 50rem;">10x Developer, Student, Cloudflare addict and Founder of random yet-to-be-Unicorn Startups</p>
 
