@@ -2,8 +2,6 @@
 
 <p style="max-width: 50rem;">🏄 10x Developer, Student, Cloudflare addict and Founder of random yet-to-be-Unicorn Startups</p>
 
-<img src="https://raw.githubusercontent.com/Nitlix/Nitlix/refs/heads/main/er8.webp" alt="Nitlix Wallpaper" style="width: 100%; height: auto;">
-
 <br />
 
 <p style="max-width: 50rem; font-style: italic;">
