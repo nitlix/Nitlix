@@ -1,11 +1,9 @@
 <h1>Hey, I'm Nit.</h1>
 
 <p style="max-width: 50rem;">🏄 10x Developer, Student, Cloudflare addict and Founder of random yet-to-be-Unicorn Startups</p>
-
 <br />
-
 <p style="max-width: 50rem; font-style: italic;">
-Caught your attention? Check out me website 👉 <a href="https://nitlix.net" target="_blank">nitlix.net</a>
+Caught your attention? Check out the site 👉 <a href="https://nitlix.com" target="_blank">nitlix.com</a>
 </p>
 
 <p>
