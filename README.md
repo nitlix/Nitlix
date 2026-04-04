@@ -1,7 +1,7 @@
-<h1>Hey, I'm Nit.</h1>
+<h1>Hey, I'm Ed.</h1>
 
-<p style="max-width: 50rem;">🏄 10x Developer, Student, Cloudflare addict and Founder of random yet-to-be-Unicorn Startups</p>
-<br />
+<p style="max-width: 50rem;">🏄 10x Prompt Engineer, Student, Cloudflare addict and Bun.js glazer</p>
+<img src="assets/build.webp" alt="Build">
 <p style="max-width: 50rem; font-style: italic;">
 Caught your attention? Check out the site 👉 <a href="https://nitlix.com" target="_blank">nitlix.com</a>
 </p>
