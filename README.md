@@ -1,20 +1,21 @@
 <h1>Hey, I'm Ed.</h1>
 
-<p style="max-width: 50rem;">🏄 10x Prompt Engineer, Student, Cloudflare addict and Bun.js glazer</p>
+<p style="max-width: 50rem;">🏄 10x Prompt Engineer, Student, Next.js Veteran, Cloudflare addict and Bun.js glazer</p>
 <img src="assets/build.webp" alt="Build">
 <p style="max-width: 50rem; font-style: italic;">
-Caught your attention? Check out the site 👉 <a href="https://nitlix.com" target="_blank">nitlix.com</a>
+Caught your attention? Check out the site 👉 <a href="https://nitlix.com" 
+style="color: lightgrey; text-decoration: underline;" target="_blank">nitlix.com</a>
 </p>
 
 <p>
     <a href="https://wakatime.com/@nitlix">
-        <img alt="WakaTime Hours" src="https://wakatime.com/badge/user/5f6652ed-17e6-4401-9ef1-13a33abcd426.svg">
+        <img alt="WakaTime Hours" src="https://wakatime-nitlixis.nitlix.com/api/badge?color=lightgrey">
     </a>
-    <a href="https://nitlix.net">
-        <img alt="GitHub followers" src="https://img.shields.io/badge/My-website-green">
+    <a href="https://nitlix.com">
+        <img alt="My website" src="https://img.shields.io/badge/My-website-lightgrey">
     </a>
     <a href="https://github.com/nitlix">
-         <img alt="GitHub views" src="https://komarev.com/ghpvc/?username=nitlix&label=Views&color=blueviolet">
+         <img alt="GitHub views" src="https://komarev.com/ghpvc/?username=nitlix&label=Views&color=lightgrey">
     </a>
 </p>
 
