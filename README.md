@@ -9,7 +9,7 @@ style="color: lightgrey; text-decoration: underline;" target="_blank">nitlix.com
     <a href="https://wakatime.com/@nitlix">
         <img alt="WakaTime Hours" src="https://wakatime-nitlixis.nitlix.com/api/badge?color=lightgrey">
     </a>
-    <a href="[https://nitlix.com](https://www.youtube.com/watch?v=FZYh6lPymJ0)">
+    <a href="https://www.youtube.com/watch?v=FZYh6lPymJ0">
         <img alt="Free Shenzhen Trip" src="https://img.shields.io/badge/Click_for-a_free_trip_to_Shenzhen!-lightgrey">
     </a>
     <a href="https://github.com/nitlix">
