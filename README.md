@@ -1,5 +1,5 @@
 <p style="max-width: 50rem;">🏄 10x Prompt Engineer, Student, Next.js Veteran, Cloudflare addict and Bun.js glazer</p>
-<img src="assets/build.webp" alt="Build">
+<img src="assets/build2.webp" alt="Build">
 <p style="max-width: 50rem; font-style: italic;">
 Caught your attention? Check out the site 👉 <a href="https://nitlix.com" 
 style="color: lightgrey; text-decoration: underline;" target="_blank">nitlix.com</a>
