@@ -1,4 +1,4 @@
-<p style="max-width: 50rem;">🏄 10x Prompt Engineer, Student, Next.js Veteran, Cloudflare addict and Bun.js glazer</p>
+<p style="max-width: 50rem;">🏄 10x Prompt Engineer, Student, Next.js Tokenmaxxer, Cloudflare addict and Bun.js glazer</p>
 <img src="assets/build2.webp" alt="Build">
 <p style="max-width: 50rem; font-style: italic;">
 Caught your attention? Check out the site 👉 <a href="https://nitlix.com" 
